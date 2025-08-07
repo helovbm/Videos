@@ -1,6 +1,8 @@
 body{
-    color: white;
+    color:white;
     background: black;
+
+    font-size: 32px;
 }
 
 
@@ -8,4 +10,13 @@ header{
     border-bottom: solid 2px white;
     margin-left: 2px;
     color: blue;
+}
+
+.chamada{
+     background: rgb(5, 39, 233);
+     padding-bottom: 80px;
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+
 }
